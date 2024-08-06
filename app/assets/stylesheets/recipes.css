@@ -1,0 +1,21 @@
+.search-icon {
+  width: 500px;
+  height: 500px;
+}
+.search-button {
+  width: 5vh;
+  border: 0;
+  cursor: pointer;
+  background-color: #3ccace;
+  padding: 8px;
+}
+.search-form {
+  width: 65vw;
+  height: 5vh;
+  display: flex;
+  margin-bottom: 5px;
+}
+.myrecipe-icon{
+  width: 500px;
+  height: 500px;
+}
